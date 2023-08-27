@@ -1,0 +1,378 @@
+
+[
+  {
+    "vid": 8,
+    "catid": 6,
+    "vcode": "VOUCHER006",
+    "name": "Amazon Gift Voucher",
+    "status": "Active",
+    "cdate": "2023-07-12",
+    "available": {
+         "type": [{
+          "vsubid": "1",   
+          "amount": 500,
+          "discount": "2%",
+          "price":"480"
+         },
+         {
+          "vsubid": "2",   
+          "amount": 1000,
+          "discount": "2%",
+          "price":"480"
+         },
+         {
+          "vsubid": "3",   
+          "amount": 1500,
+          "discount": "2%",
+          "price":"480"
+         },
+         {
+          "vsubid": "4",   
+          "amount": 2000,
+          "discount": "2%",
+          "price":"480"
+         },
+         {
+          "vsubid": "5",   
+          "amount": 2500,
+          "discount": "2%",
+          "price":"480"
+         },
+         {
+          "vsubid": "6",   
+          "amount": 3000,
+          "discount": "2%",
+          "price":"480"
+         },
+         {
+          "vsubid": "7",   
+          "amount": 3500,
+          "discount": "2%",
+          "price":"480"
+         }
+      ]
+    }
+  },
+  {
+    "vid": 7,
+    "catid": 5,
+    "vcode": "VOUCHER005",
+    "name": "Flipkart Gift Voucher",
+    "status": "Active",
+    "cdate": "2023-07-12",
+    "available": {
+         "type": [{
+          "amount": 500,
+          "discount": "2%",
+          "price":"480"
+         },
+         {
+          "amount": 1000,
+          "discount": "2%",
+          "price":"480"
+         },
+         {
+          "amount": 1500,
+          "discount": "2%",
+          "price":"480"
+         },
+         {
+          "amount": 2000,
+          "discount": "2%",
+          "price":"480"
+         },
+         {
+          "amount": 2500,
+          "discount": "2%",
+          "price":"480"
+         },
+         {
+          "amount": 3000,
+          "discount": "2%",
+          "price":"480"
+         },
+         {
+          "amount": 3500,
+          "discount": "2%",
+          "price":"480"
+         }
+      ]
+    }
+  },
+  {
+    "vid": 6,
+    "catid": 4,
+    "vcode": "VOUCHER004",
+    "name": "croma Gift Voucher",
+    "status": "Active",
+    "cdate": "2023-07-12",
+    "available": {
+         "type": [{
+          "amount": 500,
+          "discount": "2%",
+          "price":"480"
+         },
+         {
+          "amount": 1000,
+          "discount": "2%",
+          "price":"480"
+         },
+         {
+          "amount": 1500,
+          "discount": "2%",
+          "price":"480"
+         },
+         {
+          "amount": 2000,
+          "discount": "2%",
+          "price":"480"
+         },
+         {
+          "amount": 2500,
+          "discount": "2%",
+          "price":"480"
+         },
+         {
+          "amount": 3000,
+          "discount": "2%",
+          "price":"480"
+         },
+         {
+          "amount": 3500,
+          "discount": "2%",
+          "price":"480"
+         }
+      ]
+    }
+  },
+  {
+    "vid": 5,
+    "catid": 3,
+    "vcode": "VOUCHER003",
+    "name": "Zomato Gift Voucher",
+    "status": "Active",
+    "cdate": "2023-07-12",
+    "available": {
+         "type": [{
+          "amount": 500,
+          "discount": "2%",
+          "price":"480"
+         },
+         {
+          "amount": 1000,
+          "discount": "2%",
+          "price":"480"
+         },
+         {
+          "amount": 1500,
+          "discount": "2%",
+          "price":"480"
+         },
+         {
+          "amount": 2000,
+          "discount": "2%",
+          "price":"480"
+         },
+         {
+          "amount": 2500,
+          "discount": "2%",
+          "price":"480"
+         },
+         {
+          "amount": 3000,
+          "discount": "2%",
+          "price":"480"
+         },
+         {
+          "amount": 3500,
+          "discount": "2%",
+          "price":"480"
+         }
+      ]
+    }
+  },
+  {
+    "vid": 4,
+    "catid": 2,
+    "vcode": "VOUCHER002",
+    "name": "Swiggy Gift Voucher",
+    "status": "Active",
+    "cdate": "2023-07-12",
+    "available": {
+      "type": [{
+       "amount": 500,
+       "discount": "2%",
+       "price":"480"
+      },
+      {
+       "amount": 1000,
+       "discount": "2%",
+       "price":"480"
+      },
+      {
+       "amount": 1500,
+       "discount": "2%",
+       "price":"480"
+      },
+      {
+       "amount": 2000,
+       "discount": "2%",
+       "price":"480"
+      },
+      {
+       "amount": 2500,
+       "discount": "2%",
+       "price":"480"
+      },
+      {
+       "amount": 3000,
+       "discount": "2%",
+       "price":"480"
+      },
+      {
+       "amount": 3500,
+       "discount": "2%",
+       "price":"480"
+      }
+   ]
+ }
+  },
+  {
+    "vid": 3,
+    "catid": 1,
+    "vcode": "VOUCHER001",
+    "name": "AJIO Gift Voucher",
+    "status": "active",
+    "cdate": "2023-07-12",
+    "available": {
+      "type": [{
+       "amount": 500,
+       "discount": "2%",
+       "price":"480"
+      },
+      {
+       "amount": 1000,
+       "discount": "2%",
+       "price":"480"
+      },
+      {
+       "amount": 1500,
+       "discount": "2%",
+       "price":"480"
+      },
+      {
+       "amount": 2000,
+       "discount": "2%",
+       "price":"480"
+      },
+      {
+       "amount": 2500,
+       "discount": "2%",
+       "price":"480"
+      },
+      {
+       "amount": 3000,
+       "discount": "2%",
+       "price":"480"
+      },
+      {
+       "amount": 3500,
+       "discount": "2%",
+       "price":"480"
+      }
+   ]
+ }
+  },
+  {
+    "vid": 2,
+    "catid": 2,
+    "vcode": "VOUCHER002",
+    "name": "Big Basket Gift Voucher",
+    "status": "Active",
+    "cdate": "2023-07-12",
+    "available": {
+      "type": [{
+       "amount": 500,
+       "discount": "2%",
+       "price":"480"
+      },
+      {
+       "amount": 1000,
+       "discount": "2%",
+       "price":"480"
+      },
+      {
+       "amount": 1500,
+       "discount": "2%",
+       "price":"480"
+      },
+      {
+       "amount": 2000,
+       "discount": "2%",
+       "price":"480"
+      },
+      {
+       "amount": 2500,
+       "discount": "2%",
+       "price":"480"
+      },
+      {
+       "amount": 3000,
+       "discount": "2%",
+       "price":"480"
+      },
+      {
+       "amount": 3500,
+       "discount": "2%",
+       "price":"480"
+      }
+   ]
+ }
+  },
+  {
+    "vid": 1,
+    "catid": 1,
+    "vcode": "VOUCHER001",
+    "name": "Book My Show Gift Voucher",
+    "status": "active",
+    "cdate": "2023-07-12",
+    "available": {
+      "type": [{
+       "amount": 500,
+       "discount": "2%",
+       "price":"480"
+      },
+      {
+       "amount": 1000,
+       "discount": "2%",
+       "price":"480"
+      },
+      {
+       "amount": 1500,
+       "discount": "2%",
+       "price":"480"
+      },
+      {
+       "amount": 2000,
+       "discount": "2%",
+       "price":"480"
+      },
+      {
+       "amount": 2500,
+       "discount": "2%",
+       "price":"480"
+      },
+      {
+       "amount": 3000,
+       "discount": "2%",
+       "price":"480"
+      },
+      {
+       "amount": 3500,
+       "discount": "2%",
+       "price":"480"
+      }
+   ]
+ }
+  }
+]
